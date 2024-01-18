@@ -1,2 +1,1 @@
-# MalariaDetection_CNN
-Malaria Detection using CNN model
+"# ashish1703ak" 
